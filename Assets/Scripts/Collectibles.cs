@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Collectibles : MonoBehaviour
 {
+	public AudioSource collected;
+	bool m_HasAudioPlayed;
+	
 
 	void Update()
 	{
@@ -15,8 +18,10 @@ public class Collectibles : MonoBehaviour
     {
 		BunnyMovement bunny = other.GetComponent<BunnyMovement>();
 
+	
 		if (bunny != null)
         {
+			collected.Play();
 			Destroy(gameObject);
 			SaladManager.score += 1;
         }
@@ -26,4 +31,5 @@ public class Collectibles : MonoBehaviour
 
 		}
 	}
+	
 }

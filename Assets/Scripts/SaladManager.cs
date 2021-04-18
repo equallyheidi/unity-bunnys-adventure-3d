@@ -23,6 +23,6 @@ public class SaladManager : MonoBehaviour
     void Update()
     {
         // Set the displayed text to be the word "Score" followed by the score value.
-        text.text = score + " / 10";
+        text.text = score + " / 5";
     }
 }

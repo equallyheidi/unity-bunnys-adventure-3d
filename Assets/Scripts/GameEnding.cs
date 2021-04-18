@@ -11,11 +11,14 @@ public class GameEnding : MonoBehaviour
    
     public CanvasGroup winBackgroundImageCanvasGroup;
     public CanvasGroup deathBackgroundImageCanvasGroup;
+    public AudioSource gameoverAudio;
+    public AudioSource winAudio;
 
+    bool m_HasAudioPlayed;
     bool m_Win;
     bool m_Death;
     float m_Timer;
-    float a;
+    
 
     public void Death()
     {
@@ -33,16 +36,21 @@ public class GameEnding : MonoBehaviour
     {
         if (m_Win)
         {
-            EndLevel(winBackgroundImageCanvasGroup, false);
+            EndLevel(winBackgroundImageCanvasGroup, false, winAudio);
         }
         else if (m_Death)
         {
-            EndLevel(deathBackgroundImageCanvasGroup, true);
+            EndLevel(deathBackgroundImageCanvasGroup, true, gameoverAudio);
         }
     }
 
-    public void EndLevel(CanvasGroup imageCanvasGroup, bool doRestart)
+    public void EndLevel(CanvasGroup imageCanvasGroup, bool doRestart, AudioSource audioSource)
     {
+        if (!m_HasAudioPlayed)
+        {
+            audioSource.Play();
+            m_HasAudioPlayed = true;
+        }
         m_Timer += Time.deltaTime;
     
 
