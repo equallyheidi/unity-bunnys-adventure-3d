@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 3c8bceb8be7784a23ad1afbc4dbb6818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8303623058051259486
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_0"
+  - first:
+      213: 1445135851423342620
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_1"
+  - first:
+      213: -1735668151319920573
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_2"
+  - first:
+      213: 1145905914585963582
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_3"
+  - first:
+      213: 7158581037991170635
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_4"
+  - first:
+      213: 7625166382990670764
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_5"
+  - first:
+      213: -248299078237404632
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_6"
+  - first:
+      213: 4823870121991494965
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_7"
+  - first:
+      213: -616355796147682234
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_8"
+  - first:
+      213: 7546093623179254321
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_9"
+  - first:
+      213: -5504585671760317630
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_10"
+  - first:
+      213: -6668063359915754687
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_11"
+  - first:
+      213: -815355710994445841
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_12"
+  - first:
+      213: 615852569683848218
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_13"
+  - first:
+      213: -7549439249273950666
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_14"
+  - first:
+      213: -2336741374654087950
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_15"
+  - first:
+      213: 5284376801509865852
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_16"
+  - first:
+      213: -6899553210015779889
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_17"
+  - first:
+      213: -1994018362049761235
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_18"
+  - first:
+      213: -8802339150346303490
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_19"
+  - first:
+      213: -4235978334974806068
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_20"
+  - first:
+      213: 1591373470856062628
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_21"
+  - first:
+      213: 7331577738160610563
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_22"
+  - first:
+      213: 7021976035178090541
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_23"
+  - first:
+      213: 1588005243480310100
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_24"
+  - first:
+      213: 8268706176317404352
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_25"
+  - first:
+      213: 4456870616681330582
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_26"
+  - first:
+      213: 2299896680616478981
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_27"
+  - first:
+      213: -6531965548199047166
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_28"
+  - first:
+      213: 3985439619354215310
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_29"
+  - first:
+      213: 5182029950656556196
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_30"
+  - first:
+      213: -7531389963608709083
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_31"
+  - first:
+      213: 3273837048788473064
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_32"
+  - first:
+      213: 8862427642854837717
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_33"
+  - first:
+      213: -8237199231926672838
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_34"
+  - first:
+      213: -4235656602760773408
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_35"
+  - first:
+      213: -715504659093044934
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_36"
+  - first:
+      213: 3041251365474256586
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_37"
+  - first:
+      213: 6318139272719263441
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_38"
+  - first:
+      213: -3692899453791849286
+    second: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_39"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ac1cb2da93cc80800000000000000
+      internalID: -8303623058051259486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_1"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10254476672e0410800000000000000
+      internalID: 1445135851423342620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_2"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 784
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400e98230ba9e7e0800000000000000
+      internalID: -1735668151319920573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_3"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 784
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5ae8ab5317ef00800000000000000
+      internalID: 1145905914585963582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_4"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 784
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429f49b683685360800000000000000
+      internalID: 7158581037991170635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb86bec6802d960800000000000000
+      internalID: 7625166382990670764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_6"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8224a9bcd4ddd8cf0800000000000000
+      internalID: -248299078237404632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_7"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5ce76154d1f240800000000000000
+      internalID: 4823870121991494965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_8"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444d534ba34277f0800000000000000
+      internalID: -616355796147682234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_9"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a907b5b2c19b860800000000000000
+      internalID: 7546093623179254321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243750ffe78cb93b0800000000000000
+      internalID: -5504585671760317630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_11"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7c6cf3b74673a0800000000000000
+      internalID: -6668063359915754687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_12"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe907900d464fa4f0800000000000000
+      internalID: -815355710994445841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_13"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c640236a2fb8800800000000000000
+      internalID: 615852569683848218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_14"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e62ad50010b3790800000000000000
+      internalID: -7549439249273950666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf8cfa91a329fd0800000000000000
+      internalID: -2336741374654087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_16"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797f4104b0e55940800000000000000
+      internalID: 5284376801509865852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_17"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37a1039ecdf30a0800000000000000
+      internalID: -6899553210015779889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_18"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20fa6e4dd2d354e0800000000000000
+      internalID: -1994018362049761235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_19"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74817fd2fc7d580800000000000000
+      internalID: -8802339150346303490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77393c528c635c0800000000000000
+      internalID: -4235978334974806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_21"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62b538db1b51610800000000000000
+      internalID: 1591373470856062628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_22"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9936cb1ffeb560800000000000000
+      internalID: 7331577738160610563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_23"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20981efff1137160800000000000000
+      internalID: 7021976035178090541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_24"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510a17fa5ab90610800000000000000
+      internalID: 1588005243480310100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43a77357850c270800000000000000
+      internalID: 8268706176317404352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_26"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ba2d563cf9dd30800000000000000
+      internalID: 4456870616681330582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_27"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ce3c78dfdaef10800000000000000
+      internalID: 2299896680616478981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_28"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200918611fbc955a0800000000000000
+      internalID: -6531965548199047166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_29"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834061d7302f4730800000000000000
+      internalID: 3985439619354215310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca158d8c44ae740800000000000000
+      internalID: 5182029950656556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_31"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528292a2bb02b7790800000000000000
+      internalID: -7531389963608709083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_32"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4dc8943710f6d20800000000000000
+      internalID: 3273837048788473064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_33"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd07fb6cfaadfa70800000000000000
+      internalID: 8862427642854837717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_34"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e3ece0f69fad80800000000000000
+      internalID: -8237199231926672838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e008e1e2cce735c0800000000000000
+      internalID: -4235656602760773408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_36"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a314f9fad440216f0800000000000000
+      internalID: -715504659093044934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_37"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c3cfe002b43a20800000000000000
+      internalID: 3041251365474256586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_38"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d660ef813a8ea750800000000000000
+      internalID: 6318139272719263441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mochi rabbit chan \u2013 LINE Emotico\u0301n _ LINE STORE_39"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b089338f20ccc0800000000000000
+      internalID: -3692899453791849286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
